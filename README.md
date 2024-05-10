@@ -27,4 +27,5 @@ The UI includes 4 sections to simulate data readings from 4 sensors.
 
 ## Running the Program
 
-You can run the program by simply executing the provided build file (`ForceSensors_6D.exe`) within the Builds folder.
+- You can run the program by simply executing the provided build file (`ForceSensors_6D.exe`) within the Builds folder.
+- Press ESC to close the application.
